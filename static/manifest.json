@@ -9,12 +9,12 @@
     "orientation": "portrait",
     "icons": [
         {
-            "src": "/pwa_logo/me96x96.png",
+            "src": "/pwa_logo/me48x48.png",
             "type": "image/png",
             "sizes": "48x48"
         },
         {
-            "src": "/pwa_logo/me96x96.png",
+            "src": "/pwa_logo/me72x72.png",
             "type": "image/png",
             "sizes": "72x72"
         },
@@ -29,12 +29,12 @@
             "sizes": "144x144"
         },
         {
-            "src": "/pwa_logo/me144x144.png",
+            "src": "/pwa_logo/me196x196.png",
             "type": "image/png",
             "sizes": "196x196"
         },
         {
-            "src": "/pwa_logo/me144x144.png",
+            "src": "/pwa_logo/me512x512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
