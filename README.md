@@ -1,3 +1,3 @@
 # My Portfolio
 
-An web app (PWA) to showcase all of my Projects, Works and Skills
+## An web app (PWA) to showcase some of my Mainline and Featured Projects, Works and Skills
